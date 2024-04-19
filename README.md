@@ -2,7 +2,14 @@
 
 A somewhat poorly-written tool for randomly generating Pokemon teams from sample movelists. This tool was created mainly for custom movesets, should work for any list of Pokemon. Despite the rough shape it is currently in, polishing up this tool would likely require it to be completely redone.
 
-# Usage
+# Features
+
+ - Teambuilder: Allows you to create a team within the program itself. Unfinished.
+ - Dex: Displays a pokemon based on search queries (names, abilities, moves).
+ - Random Team (Weighted): Creates a random team, weighing it based on the tier that the pokemon is placed in.
+ - True Random Team: Creates a random team.
+
+# Files
 
 `__TEAMS_OUTPUT__.txt`: Pokemon Showdown/Pokepaste data for generated teams.
 
