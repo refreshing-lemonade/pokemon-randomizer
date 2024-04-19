@@ -1,0 +1,371 @@
+*ultraspark* (Xurkitree)
+Ability: Pickpocket, Soul-Heart, delta stream
+Parabolic charge, hold hands, aeroblast, octazooka, water gun, twister, ember, shore up, protect
+
+0Stache (Cryogonal)
+Ability: Magma Armor, filter, guts
+Overheat, self destruct, ice burn, surf, withdraw, charm, icicle crash
+
+2ND CHANCE (Slaking)
+Ability: Hydration
+Rock climb, waterfall, dark pulse, magnet bomb, spit up, charge, tail glow, head smash, attack order, mud slap, take down, giga drain, scary face, tickle, aqua tail, thunder fang
+
+2paint (Wigglytuff)
+Ability: Solar Power, mold breaker, mummy
+water pulse, will-o-wisp, strength sap, transform, quick attack, arm thrust, noble roar, lava plume, thunder shock, cut, power trick, octazooka, poison sting, pursuit, imprison, sketch
+
+; (Ambipom)
+Ability: Plus
+Spikes, low kick, soft-boiled, bonemerang, poison sting, dream eater, iron defense, focus blast, whirlwind, nasty plot, aqua tail, dynamic punch
+
+Abate (Wormadam)
+Ability: Arena trap, technician, scrappy
+Nuzzle, sticky web, knock off, strength sap, quick attack, simple beam, parting shot, mind reader, flamethrower, heat wave
+
+Adams (Samurott)
+Ability: Leaf Guard, truant
+Cotton guard, aqua ring, draco meteor, bolt strike, rock tomb, magic coat, heal pulse, wring out, leaf storm, blue flare, ominous wind, brave bird, synthesis, psybeam, volt switch
+
+A long eel (Rayquaza)
+Ability: Unburden, compoundeyes, pressure
+Focus blast, draco meteor, surf, rest, knock off, mega kick, fusion bolt
+
+AND EGGS (Darmanitan)
+Ability: Clear Body, natural cure, shed skin
+Megahorn, outrage, close combat, earthquake, extrasensory, brick break, venoshock, crush claw, smelling salts, defog, steamroller, vital throw, tackle, rollout, incinerate, rage
+
+Barbacon (Whiscash)
+Ability: Intimidate, snow warning
+Earthquake, stealth rock, waterfall, meteor mash, protect, rock polish, poison gas, imprison, circle throw, secret power, vicegrip, tackle, blast burn
+
+Béro (Rotom-Wash)
+Ability: Innards out, shadow shield, flash fire
+Steam eruption, protect, draining kiss, quiver dance, lick, feint attack, knock off, octazooka, fire fang, power gem, entrainment
+
+🅱IG (Machamp)
+Ability: Iron Fist, Illuminate
+Zap cannon, blizzard, giga drain, strength, draco meteor, trick, flatter, force palm, clamp, trick room, giga impact, wake up slap, hypnosis, heat wave, muddy water, covet
+
+Blender (Metagross)
+Ability: Marvel Scale, lightningrod
+Zen headbutt, megahorn, night slash, ice shard, sing, covet, water gun, pound, defense curl, taunt, sharpen, vacuum wave, charge beam, shadow force
+
+Brawl (Starmie)
+Ability: Flare boost, synchronize, weak armor,
+Steam eruption, hyperspace hole, moongeist beam, protect, leech life, brutal swing, charge, autotomize, dragon dance, high horsepower, lick, water gun, forest's curse, topsy-turvy
+
+Bob (Vibrava)
+Ability: Huge Power, drizzle
+Magma storm, gunk shot, thunder, drain punch, switcheroo, bone club, rapid spin, poison powder, hydro cannon
+
+B U P (Breloom)
+Ability: Filter, skill link
+Drain punch, leaf blade, extreme speed, shadow claw, rock throw, confuse ray, whirlpool, feint, seed bomb, stone edge, water spout, sketch
+
+Cappuccino (Bonsly)
+Ability: Levitate
+Reflect, light screen, pain split, metal burst, belly drum, steel wing, double slap, brick break
+
+Check (Munchlax)
+Ability: Battle Armor, download
+Hammer arm, wild charge, vacuum wave, shift gear, pursuit, coil, thunder fang, rock climb
+
+chief clam (Clamperl)
+Ability: Sturdy, stall, vital spirit
+Surf, flamethrower, frenzy plant, tri attack, crunch, heavy slam, sheer cold, charge beam
+
+Chinsnou (Lanturn)
+Ability: Soundproof
+Draco meteor, sleep powder, ice beam, thunder punch, poison sting, trick, memento, thunder, earthquake, fissure, focus punch, blaze kick
+
+Close Bob (Yanmega)
+Ability: Clear Body
+Waterfall, surf, rock climb, attack order, spacial rend, baton pass, dig, magnet rise, water gun, assurance, toxic spikes, signal beam, skull bash
+
+Critical Art (Lunatone)
+Ability: Water Bubble, normalize, analytic
+Steam eruption, judgment, ice beam, grass pledge, pound, icy wind, acrobatics, air cutter, horn attack, teleport, toxic thread
+
+Croakwork (Toxicroak)
+Ability: Air Lock
+Judgment, poison jab, close combat, earthquake, reflect, sludge, bind, attract, scratch, rage, night slash
+
+Crobankus (Crobat)
+Ability: Delta Stream, protean, victory star
+King’s shield, dragon claw, shell smash, baton pass, leech life, smog, ice ball, trick room, magnet bomb, growth, thunder shock, rage powder, heal pulse, absorb, encore, draining kiss, power split, mystical fire
+
+DAD (Banette)
+Ability: Shield Dust
+Megahorn, grass knot, dragon rush, superpower, rock tomb, kinesis, lock on, rock polish, toxic spikes, seed bomb
+
+deng ping~ (Umbreon)
+Ability: Poison Heal
+Heat wave, psychic, calm mind, encore, shadow claw, defend order, powder snow, charge, fire blast, psych up, sweet kiss, dark pulse
+
+Draco (Garchomp)
+Ability: Magic Guard, volt absorb, immunity
+Heart stamp, power whip, blizzard, luster purge, tail glow, close combat, gust, sludge, bulk up, hurricane, snarl, focus blast, water pulse, cotton spore, defend order, sacred fire
+
+dual bladed! (Serperior)
+Ability: Parental Bond, forewarn, cute charm
+Seismic toss, leaf blade, sacred sword, rock wrecker, absorb, mud slap, mach punch, rock throw, peck, sleep talk, aromatic mist, nature power, leech life, work up, thunder shock, feather dance
+
+FALCO (Xatu)
+Ability: Flash Fire
+Needle arm, fire fang, leaf blade, rock smash, roost, thrash, fury cutter, toxic, agility, gunk shot
+
+Farmothorn (Ferrothorn)
+Ability: Rough Skin, imposter, suction cups
+Morning sun, u-turn, poison fang, iron tail, shadow sneak, bullet punch, water gun, dragon dance, gust, poison sting, lovely kiss, heart swap, shock wave
+
+FRACKLES (Lanturn)
+Ability: Soundproof
+Draco meteor, sleep powder, ice beam, surf, poison sting, trick, memento, thunder, earthquake, fissure, focus punch, blaze kick
+
+First! (Archeops)
+Ability: Soundproof, drizzle, minus
+Brave bird, earthquake, shadow claw, growth, frost breath, aerial ace, lovely kiss, flame wheel, facade, last resort, dark pulse, thunder
+
+Fishpaste (Gyarados)
+Ability: Reckless, insomnia
+Jump kick, sacred fire, iron tail, dragon pulse, camouflage, growth, sing, dynamic punch, spore, charge beam, focus blast
+
+Good Song :D (Giratina)
+Ability: Blaze, shield dust
+Leaf storm, thunder punch, tri attack, dragon pulse, poison gas, roar of time, shadow force, drill peck
+
+Good Song :D (Giratina-Origin)
+Ability: levitate
+Leaf storm, thunder punch, tri attack, dragon pulse, poison gas, roar of time, shadow force, drill peck
+
+graduated (Regirock)
+Ability: Water Absorb, cloud nine, illuminate
+Trick room, rapid spin, follow me, whirlwind, slash, powder snow, pain split, sludge wave
+
+Grak (Regigigas)
+Ability: Hyper Cutter
+Extreme speed, crabhammer, drill peck, bonemerang, fire fang, skill swap, tail glow, rapid spin, helping hand, shock wave
+
+Hand Pon (Donphan)
+Ability: Fur coat, inner focus, compound eyes
+Power whip, flying press, liquidation, cosmic power, water gun, astonish, confusion, dazzling gleam, extrasensory, wonder room, extreme speed, leech life, power-up punch, mach punch, accelerock
+
+haRd Clay (Claydol)
+Ability: Ice Body, hyper cutter
+Explosion, horn drill, mega kick, hail, acid, draco meteor, icy wind, defend order, leech seed, aqua ring, psycho shift, seed bomb
+
+he jumps (Weavile)
+Ability: Serene Grace, sturdy, sand stream
+Shell smash, iron head, icicle crash, jump kick, assist, ice shard, sacred sword, acrobatics, magnet bomb, dynamic punch, water spout, blaze kick, gear grind, chip away, bubble
+
+Homoxorus (Haxorus)
+Ability: Cheek Pouch, liquid ooze, magma armor
+V-create, crunch, bolt strike, waterfall, quick attack, sand tomb, pay day, smack down, revenge, leech life, acid, scratch, pursuit, seismic toss, swagger, lick
+
+Hoopla (Dragalge)
+Ability: Friend Guard, tough claws, competitive
+Sludge wave, water spout, lava plume, knock off, absorb, smack down, magnet bomb, acid armor, bite, quick attack, reversal, focus energy
+
+i sleep (Mismagius)
+Ability: Immunity, intimidate, trace
+Ominous wind, leaf tornado, heat wave, surf, spike cannon, shadow claw, reversal, thrash, steel wing, water pulse, rock tomb, dragon claw
+
+InferTank (Infernape)
+Ability: Filter
+Shadow force, meteor mash, bullet punch, withdraw, ember, poison sting, flash, dynamic punch, bone club, leer, rock slide, blizzard, lucky chant, disable, thunder, sludge
+
+Jen (Scolipede)
+Ability: Rock Head, blaze
+Fusion bolt, draco meteor, sludge bomb, u-turn, final gambit, pain split, tail whip, needle arm, ice punch, icicle spear, v-create, body slam, mud shot, sky attack, rage powder, ice beam, ice fang
+
+KFREECOVER (Blaziken)
+Ability: Swift Swim, sand stream
+Recover, revenge, metal claw, toxic, wish, role play, heart swap, sludge, stone edge, endeavor, shadow punch, discharge, thunderbolt, mega drain, healing wish, poison gas, skull bash
+
+Lad (Lombre)
+Ability: Bad Dreams, effect spore, run away
+Spore, ice burn, judgment, crabhammer, metal claw, sucker punch, bug bite, twinneedle, aqua tail, wide guard, hone claws, feint attack
+
+LARRY (Shelgon)
+Ability: Plus, damp
+Cut, silver wind, waterfall, false swipe, grasswhistle, eruption, sand tomb, fake tears, flail, arm thrust, poison jab
+
+LATIDOS (Rampardos)
+Ability: Flower Gift
+Extreme speed, shadow force, morning sun, cut, confusion, endeavor, brick break, shadow claw, tri attack, acid armor, luster purge
+
+Leawonders (Cacnea)
+Ability: Download
+Sky uppercut, superpower, frenzy plant, draco meteor, karate chop, lovely kiss
+
+LED COCAIN (Maractus)
+Ability: Quick Feet, forewarn, snow warning
+Lava plume, night daze, earth power, sleep powder, bubblebeam, poison gas, triple kick, echoed voice
+
+letsgojustin (Greninja)
+Ability: Heatproof, lightningrod, gluttony
+Toxic spikes, fake out, water spout, taunt, absorb, refresh, captivate, mud slap, echoed voice, quick attack, ice ball, clamp, poison gas, pound, water gun, dragon breath
+
+Lil PP (Amoonguss)
+Ability: Simple, scrappy
+Cotton guard, icicle crash, fiery dance, coil, charge, disable, swords dance, circle throw, wild charge, spike cannon, feather dance, extrasensory
+
+lil wung (Pelipper)
+Ability: Compound Eyes
+Focus blast, thunder, sleep powder, fire blast, rest, dynamic punch, zen headbutt, water spout, luster purge, future sight, bug bite, flamethrower
+
+Meth lord∆ (Dusknoir)
+Ability: Arena Trap
+Yawn, rock slide, nightmare, bulk up, dive, low kick, petal dance, thrash, mach punch, natural gift, bite, rollout, dynamic punch, u-turn, rest, flail, heal bell, torment, headbutt, psycho boost, zap cannon, fake out, force palm, odor sleuth
+
+mf dood (Bastiodon)
+Ability: Shadow Tag, Chlorophyll
+Sludge bomb, power gem, recover, heart swap, blast burn, high jump kick, teeter dance, protect, volt tackle, switcheroo, shadow punch
+
+Morshupastah (Tornadus)
+Ability: Rattled, color change, adaptability
+Bolt strike, trick, haze, knock off, dark void, flower shield, leech life, camouflage, rage, rototiller, roar, bubble, razor leaf, icy wind, needle arm
+
+Morshupastah (Tornadus-Therian)
+Ability: Regenerator, Volt Absorb, telepathy
+Bolt strike, trick, haze, knock off, dark void, flower shield, leech life, camouflage, rage, rototiller, roar, bubble, razor leaf, icy wind, needle arm
+
+Movin (Steelix)
+Ability: Huge Power, rough skin
+Steamroller, bulldoze, hyper fang, meteor mash, sleep talk, light screen, feint, magical leaf, dragon tail, memento, charge, smog, tail glow, dragon claw
+
+mr.de guzman (Leafeon)
+Ability: Triage, Soul-Heart, no guard
+Work up, horn leech, fire lash, heal order, triple kick, fury attack, ice fang, vital throw, water gun, absorb, fake out, metal sound
+
+mukbang (Grimer)
+Ability: Magma Armor, illuminate, poison heal
+Fly, cut, surf, strength, morning sun, rock wrecker, heal bell, storm throw
+
+Ninetales (Ninetales)
+Ability: Battle Armor, white smoke
+Fiery dance, bullet seed, sludge bomb, shock wave, flash, heat wave, gyro ball, last resort, fusion flare, hurricane
+
+normal can (Infernape)
+Ability: Drought, slow start
+Seed bomb, fiery dance, close combat, earthquake, last resort, sleep powder, frenzy plant, aqua ring, judgment, aeroblast, muddy water, magic room, drain punch, torment, silver wind
+
+notpuffe (Alakazam)
+Ability: Skill Link, synchronize, cloud nine
+Psycho boost, discharge, icicle spear, bug buzz, revenge, head charge, last resort, ancient power, scald, constrict, encore, glaciate, gunk shot
+
+Ouch (Druddigon)
+Ability: No Guard, volt absorb, magic guard
+Hurricane, sacred fire, crabhammer, gunk shot, fury attack, oder sleuth, extrasensory
+
+Overdrive (Solrock)
+Ability: Gale wings, grassy surge, speed boost
+Accelerock, rock tomb, v-create, spectral thief, ember, snarl, bulldoze, parting shot, heal bell
+
+PO (Magnezone)
+Ability: Magma Armor, speed boost
+Leech seed, ice beam, power whip, waterfall, gravity, mist, synthesis, bulk up, swallow, cross poison, focus energy, fling, astonish, memento, poison fang, mean look, peck, covet, slash
+
+Proboultima (Probopass)
+Ability: Sand Stream, leaf guard, oblivious
+Seed flare, will-o-wisp, ally switch, boomburst, ember, swallow, poison sting, lick, water shuriken, extrasensory, pound, rollout, light screen, fury cutter
+
+Punch TVs (Crawdaunt)
+Ability: Steadfast
+Meteor mash, drill peck, hammer arm, aqua jet, rock slide, dive, defense curl, bug buzz, bounce, swallow
+
+rule 30 (Jynx)
+Ability: Flame Body, justified, stench
+Geomancy, fire blast, extrasensory, aeroblast, fairy wind, struggle bug, ember, acid spray, barrier
+
+santafight (Meloetta)
+Ability: Magic Guard, truant, bad dreams
+Spacial rend, heal bell, psystrike, sleep talk, round, fury cutter, scald, wing attack
+
+santafight (Meloetta-Pirouette)
+Ability: Serene Grace
+Spacial rend, heal bell, psystrike, sleep talk, round, fury cutter, scald, wing attack
+
+Shiner (Muk-Alola)
+Ability: Psychic Surge, illusion, blaze
+Shadow Bone, fire lash, leech life, spikes, quick attack, twineedle, wing attack, power trick, octazooka, double team, thunder shock, metal claw, barrage, rest
+
+Sippin, (Haunter)
+Ability: Pure Power
+Ice beam, sacred fire, u-turn, heal bell, rollout, mud bomb, brick break, magma storm, mist ball, water sport, supersonic, howl
+
+Soiled It (Tyranitar)
+Ability: Hyper Cutter, sand veil
+Flare blitz, earthquake, ice shard, surf, mega drain, mud bomb, supersonic, sunny day, spore, body slam, facade, rock wrecker, weather ball, worry seed, giga impact, poison fang
+
+Son? (Banette)
+Ability: Normalize, insomnia, soundproof
+Shift gear, toxic, skill swap, sacred sword, copycat, astonish, guillotine, jump kick, superpower, focus punch, psycho boost
+
+Spacie (Palkia)
+Ability: Aftermath
+Spore, water pulse, encore, endeavor, iron defense, fire blast, force palm, stone edge
+
+Spenset (Lucario)
+Ability: Unburden
+Sky uppercut, rock slide, spikes, dark void, flame wheel, smog, hyper voice, horn drill, outrage, trump card, leaf storm
+
+Steve (Dragonite)
+Ability: Drizzle, immunity, sticky hold
+Hurricane, searing shot, gravity, surf, earth power, chatter, rock wrecker, acupressure, dragon rage, metal burst, steel wing, bide, baton pass, sunny day, giga drain, magnet bomb, foresight, mirror shot, fusion bolt 
+
+Survivor (Dusclops)
+Ability: Trace, moxie, cloud nine
+Parting shot, punishment, cosmic power, detect, thunder shock, mud slap, fairy wind, after you, razor leaf, round, dazzling gleam, water sport, grassy terrain, leech life, quick attack, covet, celebrate
+
+SwirlyDood (Spiritomb)
+Ability: Unaware
+Earthquake, flamethrower, shadow sneak, wish, ominous wind, sharpen, rock polish, thunder
+
+uber east (Swampert)
+Ability: Effect Spore, cloud nine, vital spirit
+Thunder wave, crabhammer, sacred sword, spacial rend, earth power, grass pledge, fire blast, seismic toss, autotomize, magnitude, heart stamp, curse, refresh, teeter dance, psychic
+
+ur shoe (Gabite)
+Ability: Pure Power, forewarn
+Icicle crash, sacred fire, dark void, crabhammer, snatch, night daze, air slash, volt switch, wish, fusion flare, head charge, hammer arm
+
+Van (Cloyster)
+Ability: Early Bird, steadfast
+Head smash, surf, bounce, volt tackle, future sight, spider web, roar of time, fire pledge, dark void, thunder
+
+vlad slush (Glaceon)
+Ability: Steelworker, hyper cutter, justified
+Powder, parting shot, foul play, glare, pound, gust, struggle bug, mud shot, assurance, water gun, absorb, fake out, metal sound, heal order
+
+Warm (Froslass)
+Ability: Ice Body, Flower Gift
+Taunt, dragon pulse, giga impact, force palm, teleport, water spout, bone rush, confusion, pursuit, brave bird, calm mind, sky attack
+
+William % (Reshiram)
+Ability: Immunity, thick fat, suction cups
+Fiery dance, u-turn, lunar dance, wish, secret power, aerial ace, slash, wood hammer
+
+xO (Skarmory)
+Ability: Simple
+Iron defense, focus punch, force palm, rock blast, gyro ball, brine, dive, egg bomb
+
+YAAK (Kyogre)
+Ability: Serene Grace
+Rock slide, belly drum, strength, hypnosis, worry seed, metal burst, tailwind, steel wing
+
+Yam4chris (Tangrowth)
+Ability: Swarm, speed boost
+Razor leaf, cotton guard, shift gear, baton pass, tail whip, sharpen, shadow force, mega kick, shadow sneak, sky drop, power split
+
+yoshi YOSHI (Clefable)
+Ability: Competitive, primordial sea, drought
+Origin pulse, moonblast, topsy turvy, tail glow, leech life, rage, triple kick, electroweb, bite, lick, mud slap, smog, copycat, incinerate, wring out, grass pledge
+
+yummie egh (Aggron)
+Ability: Effect Spore, strong jaw, hydration
+V-create, bulldoze, defog, wood hammer, peck, magnetic flux, flail, psych up, quick attack, draining kiss, sand tomb, poison sting, twister, snore, thief
+
+Zorg-German (Salamence)
+Ability: Serene grace, compound eyes, magnet pull
+Dual chop, flare blitz, steam eruption, dragon dance, quick attack, disable, leafage, final gambit, mach punch, bullet punch, shadow sneak, mean look, protect, soak, peck, copycat, roar, poison sting, heavy slam, wrap, whirlwind, bind, rock throw

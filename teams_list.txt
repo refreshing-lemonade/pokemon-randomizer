@@ -1,0 +1,1958 @@
+=== [gen7ubers] Randomizer Races/Manuel 7 level 100 ===
+
+Abate (Wormadam) @ Leftovers  
+Ability: Arena Trap  
+EVs: 46 HP / 85 Atk / 45 Def / 69 SpA / 53 SpD / 56 Spe  
+Lax Nature  
+IVs: 19 HP / 24 Atk / 24 Def / 28 SpA / 17 SpD / 16 Spe  
+- Knock Off  
+- Nuzzle  
+- Strength Sap  
+- Sticky Web  
+
+Hand pon (Donphan) (F) @ Fightinium Z  
+Ability: Fur Coat  
+EVs: 38 HP / 77 Atk / 41 Def / 40 SpA / 36 SpD / 36 Spe  
+Relaxed Nature  
+IVs: 21 HP / 27 Atk / 28 Def / 8 SpA / 12 SpD / 11 Spe  
+- Power Whip  
+- Flying Press  
+- Liquidation  
+- Cosmic Power  
+
+Critical Art (Lunatone) @ Waterium Z  
+Ability: Water Bubble  
+EVs: 61 HP / 52 Atk / 36 Def / 45 SpA / 12 SpD / 23 Spe  
+Naughty Nature  
+IVs: 7 HP / 4 Atk / 28 Def / 20 SpA / 6 SpD / 10 Spe  
+- Steam Eruption  
+- Judgment  
+- Ice Beam  
+- Grass Pledge  
+
+Brawl (Starmie) @ Mystic Water  
+Ability: Flare Boost  
+EVs: 4 Atk / 3 Def / 17 SpA / 3 SpD / 2 Spe  
+Quiet Nature  
+IVs: 29 HP / 29 Atk / 24 Def / 5 SpA / 20 SpD / 2 Spe  
+- Steam Eruption  
+- Hyperspace Hole  
+- Moongeist Beam  
+- Protect  
+
+Zorg-German (Salamence) (F) @ Dragonium Z  
+Ability: Serene Grace  
+EVs: 29 HP / 46 Atk / 27 Def / 40 SpA / 17 SpD / 44 Spe  
+Hasty Nature  
+IVs: 26 HP / 12 Atk / 2 Def / 15 SpA / 2 SpD / 29 Spe  
+- Dual Chop  
+- Flare Blitz  
+- Steam Eruption  
+- Dragon Dance  
+
+Shiner (Muk-Alola) (F) @ Firium Z  
+Ability: Psychic Surge  
+Shiny: Yes  
+EVs: 41 HP / 100 Atk / 56 Def / 77 SpA / 52 SpD / 58 Spe  
+Hasty Nature  
+IVs: 26 HP / 22 Atk / 6 Def / 16 SpA / 14 Spe  
+- Shadow Bone  
+- Fire Lash  
+- Leech Life  
+- Spikes  
+
+
+=== [gen7ubers] Randomizer Races/James 7 level 100 ===
+
+*ultraspark* (Xurkitree) @ Normalium Z  
+Ability: Soul-Heart  
+EVs: 21 HP / 54 Atk / 39 Def / 69 SpA / 23 SpD / 34 Spe  
+Bashful Nature  
+IVs: 6 HP / 13 Atk / 19 Def / 7 SpA / 2 SpD / 12 Spe  
+- Hold Hands  
+- Aeroblast  
+- Parabolic Charge  
+- Octazooka  
+
+Béro (Rotom-Wash) @ amuletcoin  
+Ability: Innards Out  
+EVs: 27 HP / 110 Atk / 46 Def / 59 SpA / 27 SpD / 40 Spe  
+Bold Nature  
+IVs: 27 HP / 15 Atk / 11 Def / 30 SpD / 11 Spe  
+- Steam Eruption  
+- Protect  
+- Draining Kiss  
+- Quiver Dance  
+
+2paint (Wigglytuff) (F) @ smokeball  
+Ability: Solar Power  
+EVs: 28 HP / 51 Atk / 24 Def / 36 SpA / 23 SpD / 30 Spe  
+Serious Nature  
+IVs: 11 HP / 23 Atk / 24 Def / 29 SpA / 5 SpD / 25 Spe  
+- Water Pulse  
+- Will-O-Wisp  
+- Strength Sap  
+- Transform  
+
+mr.de guzman (Leafeon) (M)  
+Ability: Triage  
+EVs: 8 HP / 48 Atk / 19 Def / 53 SpA / 31 SpD / 30 Spe  
+Adamant Nature  
+IVs: 30 HP / 17 Def / 22 SpA / 14 SpD / 19 Spe  
+- Heal Order  
+- Work Up  
+- Horn Leech  
+- Fire Lash  
+
+Overdrive (Solrock)  
+Ability: Gale Wings  
+EVs: 29 HP / 65 Atk / 20 Def / 78 SpA / 32 SpD / 39 Spe  
+Bashful Nature  
+IVs: 27 HP / 13 Def / 12 SpA / 19 SpD / 13 Spe  
+- Accelerock  
+- V-create  
+- Spectral Thief  
+- Rock Tomb  
+
+vlad slush (Glaceon) (M)  
+Ability: Hyper Cutter  
+EVs: 10 HP / 22 Atk / 21 Def / 29 SpA / 14 SpD / 13 Spe  
+Quirky Nature  
+IVs: 8 HP / 0 Atk / 11 Def / 15 SpA / 0 SpD / 2 Spe  
+- Powder  
+- Parting Shot  
+- Foul Play  
+- Glare  
+
+
+=== [gen4ubers] Randomizer Races/manuel 6 level 100 ===
+
+SwirlyDood (Spiritomb) (F) @ Bright Powder  
+Ability: Unaware  
+EVs: 62 HP / 149 Atk / 53 Def / 133 SpA / 53 SpD / 57 Spe  
+Adamant Nature  
+IVs: 15 HP / 7 Def / 20 SpA / 19 SpD / 13 Spe  
+- Earthquake  
+- Flamethrower  
+- Shadow Sneak  
+- Wish  
+
+Grak (Regigigas) @ Choice Band  
+Ability: Hyper Cutter  
+EVs: 44 HP / 184 Atk / 73 Def / 88 SpA / 55 SpD / 66 Spe  
+Lonely Nature  
+IVs: 25 HP / 30 Def / 3 SpA / 9 SpD / 7 Spe  
+- Extreme Speed  
+- Crabhammer  
+- Drill Peck  
+- Bonemerang  
+
+Sippin, (Haunter) (F) @ Bright Powder  
+Ability: Pure Power  
+EVs: 62 HP / 86 Atk / 43 Def / 127 SpA / 35 SpD / 83 Spe  
+Relaxed Nature  
+IVs: 26 HP / 30 Def / 21 SpA / 9 SpD / 11 Spe  
+- Ice Beam  
+- Sacred Fire  
+- U-turn  
+- Heal Bell  
+
+B U P (Breloom) (M) @ Big Root  
+Ability: Filter  
+EVs: 69 HP / 43 Atk / 52 Def / 47 SpA / 32 SpD / 39 Spe  
+Careful Nature  
+IVs: 21 HP / 28 Def / 11 SpA / 19 SpD / 18 Spe  
+- Drain Punch  
+- Leaf Blade  
+- Extreme Speed  
+- Shadow Claw  
+
+Spenset (Lucario) (M) @ Fist Plate  
+Ability: Unburden  
+EVs: 50 HP / 154 Atk / 62 Def / 92 SpA / 25 SpD / 56 Spe  
+Rash Nature  
+IVs: 21 HP / 12 Def / 1 SpA / 16 SpD / 11 Spe  
+- Sky Uppercut  
+- Rock Slide  
+- Spikes  
+- Dark Void  
+
+Blender (Metagross) @ Wide Lens  
+Ability: Marvel Scale  
+EVs: 17 HP / 69 Atk / 54 Def / 112 SpA / 19 SpD / 80 Spe  
+Quirky Nature  
+IVs: 1 HP / 22 Def / 6 SpA / 29 SpD / 23 Spe  
+- Zen Headbutt  
+- Megahorn  
+- Night Slash  
+- Ice Shard  
+
+
+=== [gen4ubers] Randomizer Races/James 6 level 100 ===
+
+Meth lord∆ (Dusknoir) (F) @ Dusk Ball  
+Ability: Arena Trap  
+EVs: 24 HP / 103 Atk / 102 Def / 18 SpA / 3 SpD / 39 Spe  
+Impish Nature  
+IVs: 20 HP / 28 Def / 24 SpA / 15 SpD / 4 Spe  
+- Yawn  
+- Rock Slide  
+- Nightmare  
+- Bulk Up  
+
+lil wung (Pelipper) (M) @ Poke Ball  
+Ability: Compound Eyes  
+EVs: 85 HP / 94 Atk / 68 Def / 92 SpA / 58 SpD / 100 Spe  
+Quiet Nature  
+IVs: 12 HP / 6 Atk / 3 Def / 30 SpA / 3 SpD / 1 Spe  
+- Focus Blast  
+- Thunder  
+- Sleep Powder  
+- Fire Blast  
+
+deng ping~ (Umbreon) (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 100 HP / 40 Atk / 71 Def / 100 SpA / 100 SpD / 34 Spe  
+Hardy Nature  
+IVs: 16 HP / 20 Atk / 11 Def / 8 SpA / 26 SpD / 27 Spe  
+- Heat Wave  
+- Psychic  
+- Calm Mind  
+- Encore  
+
+mf dood (Bastiodon) (M) @ Macho Brace  
+Ability: Shadow Tag  
+EVs: 63 HP / 122 Atk / 64 Def / 93 SpA / 77 SpD / 91 Spe  
+Gentle Nature  
+IVs: 30 HP / 0 Atk / 1 Def / 22 SpA / 6 SpD / 7 Spe  
+- Sludge Bomb  
+- Power Gem  
+- Recover  
+- Heart Swap  
+
+Cappuccino (Bonsly) (F) @ Safari Ball  
+Ability: Levitate  
+EVs: 252 HP / 53 Atk / 45 Def / 68 SpA / 37 SpD / 52 Spe  
+Impish Nature  
+IVs: 22 HP / 0 Atk / 2 Def / 4 SpA / 10 SpD / 20 Spe  
+- Reflect  
+- Light Screen  
+- Pain Split  
+- Metal Burst  
+
+Punch TVs (Crawdaunt) (F) @ Choice Band  
+Ability: Steadfast  
+EVs: 53 HP / 65 Atk / 58 Def / 64 SpA / 47 SpD / 79 Spe  
+Gentle Nature  
+IVs: 30 HP / 16 Def / 12 SpA / 16 SpD / 24 Spe  
+- Meteor Mash  
+- Drill Peck  
+- Hammer Arm  
+- Aqua Jet  
+
+
+=== [gen6ubers] Randomizer Races/Manuel 5 level 100 ===
+
+Survivor (Dusclops) (M) @ Eviolite  
+Ability: Trace  
+EVs: 64 HP / 32 Atk / 52 Def / 8 SpA / 20 SpD / 1 Spe  
+Gentle Nature  
+IVs: 7 HP / 0 Def / 18 SpA / 9 SpD / 11 Spe  
+- Punishment  
+- Parting Shot  
+- Cosmic Power  
+- Detect  
+
+Crobankus (Crobat) (F) @ Expert Belt  
+Ability: Delta Stream  
+EVs: 4 HP / 1 Atk / 4 Def / 8 SpA / 4 SpD / 16 Spe  
+Adamant Nature  
+IVs: 27 HP / 22 Def / 3 SpA / 17 SpD / 14 Spe  
+- Dragon Claw  
+- King's Shield  
+- Shell Smash  
+- Baton Pass  
+
+Hoopla (Dragalge) (M) @ Splash Plate  
+Ability: Friend Guard  
+EVs: 44 HP / 36 Atk / 1 Def / 8 SpA / 4 SpD / 1 Spe  
+Lonely Nature  
+IVs: 12 Def / 28 Spe  
+- Water Spout  
+- Sludge Wave  
+- Lava Plume  
+- Knock Off  
+
+Homoxorus (Haxorus) (M) @ Quick Claw  
+Ability: Cheek Pouch  
+EVs: 12 HP / 236 Atk / 1 Def / 12 SpA / 1 SpD / 72 Spe  
+Careful Nature  
+IVs: 19 HP / 20 SpA / 29 SpD  
+- Crunch  
+- V-create  
+- Bolt Strike  
+- Waterfall  
+
+Farmothorn (Ferrothorn) @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 1 HP / 1 Atk / 4 Def / 4 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 6 HP / 20 Def / 16 SpA / 29 SpD / 9 Spe  
+- Iron Tail  
+- Poison Fang  
+- U-turn  
+- Morning Sun  
+
+Proboultima (Probopass) @ Wise Glasses  
+Ability: Sand Stream  
+EVs: 1 HP / 20 Atk / 1 Def / 252 SpA / 1 SpD / 1 Spe  
+IVs: 0 Atk / 12 Def / 29 SpA / 11 SpD / 8 Spe  
+- Boomburst  
+- Seed Flare  
+- Will-O-Wisp  
+- Ally Switch  
+
+
+=== [gen6ubers] Randomizer Races/James 5 level 100 ===
+
+rule 30 (Jynx) @ Lucky Punch  
+Ability: Flame Body  
+EVs: 1 HP / 1 Atk / 1 Def / 32 SpA / 32 SpD / 8 Spe  
+IVs: 15 HP / 16 Atk / 22 Spe  
+- Geomancy  
+- Fire Blast  
+- Aeroblast  
+- Extrasensory  
+
+letsgojustin (Greninja) (M) @ Rocky Helmet  
+Ability: Heatproof  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 24 HP / 26 Atk / 16 Def / 4 SpA / 8 SpD / 16 Spe  
+- Fake Out  
+- Water Spout  
+- Toxic Spikes  
+- Taunt  
+
+dual bladed! (Serperior) (M) @ Lax Incense  
+Ability: Parental Bond  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 8 Def / 27 SpA / 16 SpD  
+- Leaf Blade  
+- Sacred Sword  
+- Seismic Toss  
+- Rock Wrecker  
+
+yoshi YOSHI (Clefable) (F) @ Expert Belt  
+Ability: Competitive  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 8 SpD / 1 Spe  
+IVs: 26 HP / 18 Atk / 20 Def / 17 SpA / 19 Spe  
+- Moonblast  
+- Tail Glow  
+- Topsy-Turvy  
+- Origin Pulse  
+
+Morshupastah (Tornadus-Therian) @ King's Rock  
+Ability: Regenerator  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Adamant Nature  
+IVs: 10 HP / 21 Atk / 25 Def / 5 SpA / 5 SpD / 20 Spe  
+- Bolt Strike  
+- Trick  
+- Haze  
+- Knock Off  
+
+yummie egh (Aggron) (F) @ Power Band  
+Ability: Effect Spore  
+EVs: 1 HP / 36 Atk / 1 Def / 1 SpA / 20 SpD / 1 Spe  
+Modest Nature  
+IVs: 20 HP / 30 Def / 29 SpA / 16 Spe  
+- V-create  
+- Bulldoze  
+- Defog  
+- Wood Hammer  
+
+
+=== [gen5ubers] Randomizer Races/spencer 4 level 100 ===
+
+Draco (Garchomp) (M) @ King's Rock  
+Ability: Magic Guard  
+EVs: 1 HP / 96 Atk / 1 Def / 12 SpA / 1 SpD / 1 Spe  
+Bold Nature  
+IVs: 23 HP / 24 Def / 18 SpD  
+- Heart Stamp  
+- Power Whip  
+- Blizzard  
+- Luster Purge  
+
+Jen (Scolipede) (F) @ Poke Ball  
+Ability: Rock Head  
+EVs: 1 HP / 20 Atk / 1 Def / 20 SpA / 1 SpD / 1 Spe  
+Bold Nature  
+IVs: 25 HP / 28 Def / 8 SpD / 23 Spe  
+- Fusion Bolt  
+- Draco Meteor  
+- Sludge Bomb  
+- U-turn  
+
+Adams (Samurott) (F) @ Razor Claw  
+Ability: Leaf Guard  
+EVs: 1 HP / 1 Atk / 16 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 13 HP / 23 SpA / 25 SpD / 26 Spe  
+- Cotton Guard  
+- Aqua Ring  
+- Draco Meteor  
+- Bolt Strike  
+
+Lil PP (Amoonguss) @ Leftovers  
+Ability: Simple  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 12 Spe  
+Jolly Nature  
+IVs: 20 HP / 8 Def / 25 SpA / 4 SpD  
+- Cotton Guard  
+- Icicle Crash  
+- Fiery Dance  
+- Coil  
+
+Ninetales @ Charcoal  
+Ability: Battle Armor  
+EVs: 1 HP / 24 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Mild Nature  
+IVs: 9 HP / 21 Def / 16 SpA / 16 SpD / 23 Spe  
+- Fiery Dance  
+- Sludge Bomb  
+- Bullet Seed  
+- Shock Wave  
+
+mukbang (Grimer)  
+Ability: Magma Armor  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 29 HP / 29 Def / 24 SpA / 9 SpD / 9 Spe  
+- Fly  
+- Surf  
+- Cut  
+- Strength  
+
+
+=== [gen5ubers] Randomizer Races/manuel 4 level 100 ===
+
+santafight (Meloetta) @ Leftovers  
+Ability: Magic Guard  
+EVs: 52 HP / 76 Atk / 20 Def / 196 SpA / 60 SpD / 52 Spe  
+Jolly Nature  
+IVs: 22 HP / 0 Atk / 19 SpA / 12 Spe  
+- Spacial Rend  
+- Heal Bell  
+- Psystrike  
+- Sleep Talk  
+
+Barbacon (Whiscash) (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 144 HP / 40 Def / 80 SpD / 8 Spe  
+Hardy Nature  
+IVs: 29 HP / 11 Def / 19 SpA / 0 SpD / 8 Spe  
+- Earthquake  
+- Meteor Mash  
+- Waterfall  
+- Stealth Rock  
+
+AND EGGS (Darmanitan) (F) @ Choice Scarf  
+Ability: Clear Body  
+EVs: 32 HP / 184 Atk / 12 Def / 16 SpA / 12 SpD / 88 Spe  
+Mild Nature  
+IVs: 14 HP / 29 Def / 15 SpA / 29 SpD / 20 Spe  
+- Megahorn  
+- Outrage  
+- Close Combat  
+- Drill Run  
+
+Steve (Dragonite) (F) @ Sharp Beak  
+Ability: Drizzle  
+EVs: 44 HP / 76 Atk / 16 Def / 76 SpA / 8 SpD / 52 Spe  
+Modest Nature  
+IVs: 30 HP / 0 Atk / 23 Def / 2 SpA / 0 SpD / 12 Spe  
+- Hurricane  
+- Searing Shot  
+- Surf  
+- Gravity  
+
+First! (Archeops) @ Choice Band  
+Ability: Soundproof  
+EVs: 28 HP / 184 Atk / 4 Def / 16 SpA / 16 SpD / 96 Spe  
+IVs: 23 HP / 16 Def / 17 SpA / 23 Spe  
+- Brave Bird  
+- Earthquake  
+- Shadow Claw  
+- Growth  
+
+Son? (Banette) (M) @ Focus Sash  
+Ability: Normalize  
+EVs: 28 HP / 12 Atk / 12 Def / 8 SpA / 236 Spe  
+Naive Nature  
+IVs: 22 HP / 24 Def / 29 SpA / 27 SpD / 6 Spe  
+- Sacred Sword  
+- Shift Gear  
+- Toxic  
+- Skill Swap  
+
+
+=== [gen5ubers] Randomizer Races/James 4 level 100 ===
+
+normal can (Infernape) (M)  
+Ability: Drought  
+EVs: 32 HP / 40 Atk / 1 Def / 40 SpA / 20 SpD / 40 Spe  
+Quirky Nature  
+IVs: 18 HP  
+- Fiery Dance  
+- Seed Bomb  
+- Close Combat  
+- Earthquake  
+
+chief clam (Clamperl) (F) @ Deep Sea Tooth  
+Ability: Sturdy  
+EVs: 1 HP / 1 Atk / 1 Def / 100 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 0 Atk / 20 Def / 5 SpD / 6 Spe  
+- Frenzy Plant  
+- Tri Attack  
+- Surf  
+- Flamethrower  
+
+he jumps (Weavile) (M) @ Choice Band  
+Ability: Serene Grace  
+EVs: 1 HP / 92 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Hasty Nature  
+IVs: 23 HP / 9 Def / 16 SpA / 17 SpD / 14 Spe  
+- Jump Kick  
+- Iron Head  
+- Icicle Crash  
+- Shell Smash  
+
+A long eel (Rayquaza)  
+Ability: Unburden  
+EVs: 4 HP / 24 Atk / 16 Def / 1 SpA / 8 SpD / 1 Spe  
+Calm Nature  
+IVs: 0 Atk / 21 SpA / 23 Spe  
+- Focus Blast  
+- Draco Meteor  
+- Surf  
+- Rest  
+
+William % (Reshiram)  
+Ability: Immunity  
+EVs: 72 HP / 1 Atk / 48 Def / 28 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 30 Atk / 23 Spe  
+- Wish  
+- Lunar Dance  
+- U-turn  
+- Fiery Dance  
+
+graduated (Regirock)  
+Ability: Water Absorb  
+EVs: 104 HP / 16 Atk / 80 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 0 Atk / 24 SpA / 20 SpD / 24 Spe  
+- Trick Room  
+- Rapid Spin  
+- Follow Me  
+- Whirlwind  
+
+
+=== [gen5ubers] Randomizer Races/manuel 3 level 100 ===
+
+Ouch (Druddigon) (M) @ Expert Belt  
+Ability: No Guard  
+EVs: 144 Atk / 48 Def / 8 SpD  
+Bashful Nature  
+IVs: 28 HP / 13 SpA / 26 Spe  
+- Hurricane  
+- Sacred Fire  
+- Crabhammer  
+- Gunk Shot  
+
+Check (Munchlax) (M) @ Eviolite  
+Ability: Battle Armor  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Jolly Nature  
+IVs: 13 HP / 24 Def / 24 SpA / 15 SpD / 18 Spe  
+- Hammer Arm  
+- Wild Charge  
+- Vacuum Wave  
+- Shift Gear  
+
+0Stache (Cryogonal)  
+Ability: Magma Armor  
+EVs: 32 Atk  
+Bashful Nature  
+IVs: 13 HP / 5 Def / 29 SpA / 29 SpD / 3 Spe  
+- Self-Destruct  
+- Ice Burn  
+- Surf  
+- Overheat  
+
+Lad (Lombre) (F) @ Insect Plate  
+Ability: Bad Dreams  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 27 HP / 19 Def / 9 SpA  
+- Spore  
+- Ice Burn  
+- Judgment  
+- Crabhammer  
+
+Van (Cloyster) (F) @ Leftovers  
+Ability: Early Bird  
+EVs: 36 HP / 80 Atk / 12 SpA  
+Impish Nature  
+IVs: 17 SpD / 24 Spe  
+- Head Smash  
+- Bounce  
+- Surf  
+- Volt Tackle  
+
+Movin (Steelix) (F) @ Macho Brace  
+Ability: Huge Power  
+EVs: 76 HP / 116 Atk / 44 Def / 4 SpA / 48 SpD  
+Gentle Nature  
+IVs: 26 Spe  
+- Steamroller  
+- Bulldoze  
+- Hyper Fang  
+- Meteor Mash  
+
+
+=== [gen5ubers] Randomizer Races/James 3 Level 100 ===
+
+Uber east (Swampert) (M) @ Leftovers  
+Ability: Effect Spore  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Naughty Nature  
+IVs: 28 HP / 14 Def / 12 SpA / 21 SpD / 18 Spe  
+- Thunder Wave  
+- Spacial Rend  
+- Crabhammer  
+- Sacred Sword  
+
+LED COCAIN (Maractus) (M) @ Soft Sand  
+Ability: Quick Feet  
+EVs: 20 Atk / 116 SpA  
+IVs: 10 HP / 0 Atk / 17 SpD / 16 Spe  
+- Lava Plume  
+- Night Daze  
+- Earth Power  
+- Sleep Powder  
+
+ur shoe (Gabite) (M) @ Eviolite  
+Ability: Pure Power  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 29 HP / 15 Def / 13 SpA / 13 SpD / 15 Spe  
+- Icicle Crash  
+- Sacred Fire  
+- Crabhammer  
+- Dark Void  
+
+notpuffe (Alakazam) (M) @ Expert Belt  
+Ability: Skill Link  
+EVs: 28 HP / 20 SpA / 16 Spe  
+IVs: 13 SpD  
+- Psycho Boost  
+- Discharge  
+- Icicle Spear  
+- Bug Buzz  
+
+i sleep (Mismagius) (M) @ Shell Bell  
+Ability: Immunity  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Adamant Nature  
+IVs: 11 HP / 0 Atk / 22 Def / 19 SpD / 27 Spe  
+- Heat Wave  
+- Ominous Wind  
+- Surf  
+- Leaf Tornado  
+
+Yam4Chris (Tangrowth) (F) @ Macho Brace  
+Ability: Swarm  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Hardy Nature  
+IVs: 16 HP / 10 Def / 11 SpA / 4 SpD / 13 Spe  
+- Razor Leaf  
+- Shift Gear  
+- Baton Pass  
+- Cotton Guard  
+
+
+=== [gen4ubers] Randomizer Races/manuel 2 Level 100 ===
+
+Warm (Froslass) @ Wise Glasses  
+Ability: Ice Body  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 11 HP / 17 Atk / 11 Def / 28 SpA / 21 SpD / 10 Spe  
+- Giga Impact  
+- Dragon Pulse  
+- Taunt  
+- Force Palm  
+
+Close Bob (Yanmega) (M) @ Sea Incense  
+Ability: Clear Body  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Mild Nature  
+IVs: 17 HP / 29 Atk / 11 Def / 22 SpA / 25 SpD / 17 Spe  
+- Attack Order  
+- Surf  
+- Rock Climb  
+- Waterfall  
+
+Chinsnou (Lanturn) (M) @ Expert Belt  
+Ability: Soundproof  
+EVs: 44 HP / 12 SpA / 52 Spe  
+Relaxed Nature  
+IVs: 16 Def / 27 SpD  
+- Thunder Punch  
+- Ice Beam  
+- Draco Meteor  
+- Sleep Powder  
+
+haRd Clay (Claydol)  
+Ability: Ice Body  
+EVs: 20 Atk  
+Relaxed Nature  
+IVs: 8 HP / 11 Def / 16 SpA / 19 SpD / 14 Spe  
+- Explosion  
+- Horn Drill  
+- Mega Kick  
+- Hail  
+
+Fishpaste (Gyarados) (F) @ Choice Band  
+Ability: Reckless  
+EVs: 196 Atk / 16 SpA  
+Careful Nature  
+IVs: 22 HP / 18 Def / 12 SpD / 7 Spe  
+- Jump Kick  
+- Sacred Fire  
+- Dragon Pulse  
+- Iron Tail  
+
+🅱IG (Machamp) (F) @ Choice Specs  
+Ability: Iron Fist  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Rash Nature  
+IVs: 9 HP / 19 Atk / 11 Def / 8 SpD / 1 Spe  
+- Strength  
+- Zap Cannon  
+- Blizzard  
+- Giga Drain  
+
+
+=== [gen4ubers] Randomizer Races/James 2 Level 100 ===
+
+FRACKLES (Lanturn) (F) @ Dragon Fang  
+Ability: Soundproof  
+EVs: 16 HP / 60 Atk / 40 SpA  
+Quirky Nature  
+IVs: 0 Atk / 14 Def / 27 SpD / 24 Spe  
+- Draco Meteor  
+- Surf  
+- Sleep Powder  
+- Ice Beam  
+
+LEAWONDERS (Cacnea) (F) @ Up-Grade  
+Ability: Download  
+EVs: 16 Atk / 16 SpD / 16 Spe  
+IVs: 25 HP / 23 SpA  
+- Sky Uppercut  
+- Frenzy Plant  
+- Draco Meteor  
+- Superpower  
+
+; (Ambipom) (F) @ Shell Bell  
+Ability: Plus  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Sassy Nature  
+IVs: 19 HP / 22 Def / 19 SpA / 25 SpD / 23 Spe  
+- Low Kick  
+- Spikes  
+- Soft-Boiled  
+- Bonemerang  
+
+CROAKWORK (Toxicroak) (F) @ Stone Plate  
+Ability: Air Lock  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lax Nature  
+IVs: 16 Def / 23 SpA / 14 Spe  
+- Poison Jab  
+- Earthquake  
+- Drain Punch  
+- Judgment  
+
+PO (Magnezone) @ Safari Ball  
+Ability: Magma Armor  
+EVs: 8 Atk  
+Hasty Nature  
+IVs: 14 HP / 22 Atk / 6 Def / 24 SpA / 7 SpD / 28 Spe  
+- Ice Beam  
+- Power Whip  
+- Leech Seed  
+- Waterfall  
+
+GOOD SONG :D (Giratina)  
+Ability: Blaze  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Calm Nature  
+IVs: 2 HP / 27 Atk / 29 Def / 10 SpD / 29 Spe  
+- Leaf Storm  
+- Thunder Punch  
+- Tri Attack  
+- Dragon Pulse  
+
+
+=== [gen4ubers] Randomizer Races/manuel 1 level 100 ===
+
+Bob (Vibrava) (F) @ Muscle Band  
+Ability: Huge Power  
+EVs: 60 HP / 16 Atk / 4 Def / 44 SpA / 4 SpD / 44 Spe  
+Naive Nature  
+- Magma Storm  
+- Thunder  
+- Gunk Shot  
+- Drain Punch  
+
+DAD (Banette) (M) @ Miracle Seed  
+Ability: Shield Dust  
+EVs: 60 HP / 52 Atk / 20 Def / 76 SpA / 44 SpD / 4 Spe  
+Hardy Nature  
+- Megahorn  
+- Dragon Rush  
+- Grass Knot  
+- Superpower  
+
+Soiled It (Tyranitar) (F) @ Earth Plate  
+Ability: Hyper Cutter  
+EVs: 64 Atk / 28 SpA / 28 Spe  
+Quiet Nature  
+IVs: 14 HP / 11 Def / 14 SpD  
+- Flare Blitz  
+- Earthquake  
+- Ice Shard  
+- Surf  
+
+InferTank (Infernape) @ Spell Tag  
+Ability: Filter  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Calm Nature  
+IVs: 6 HP / 23 Def / 12 SpA / 18 SpD / 22 Spe  
+- Shadow Force  
+- Meteor Mash  
+- Bullet Punch  
+- Withdraw  
+
+Spacie (Palkia)  
+Ability: Aftermath  
+EVs: 24 Atk  
+Hardy Nature  
+IVs: 13 HP / 0 Atk / 10 SpA / 7 SpD / 24 Spe  
+- Water Pulse  
+- Spore  
+- Encore  
+- Endeavor  
+
+LARRY (Shelgon) (F)  
+Ability: Plus  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Gentle Nature  
+IVs: 16 HP / 23 Def / 23 SpD / 23 Spe  
+- Cut  
+- Silver Wind  
+- Waterfall  
+- False Swipe  
+
+
+=== [gen4ubers] Randomizer Races/James 1 rando level 100 ===
+
+KFREECOVER (Blaziken) (M)  
+Ability: Swift Swim  
+EVs: 8 Atk / 8 Def  
+Bashful Nature  
+IVs: 8 SpA / 6 SpD / 16 Spe  
+- Recover  
+- Revenge  
+- Metal Claw  
+- Toxic  
+
+2ND CHANCE (Slaking) (F) @ Silk Scarf  
+Ability: Hydration  
+EVs: 20 Atk / 16 Spe  
+Sassy Nature  
+IVs: 23 HP / 11 Def / 12 SpA / 29 SpD  
+- Rock Climb  
+- Waterfall  
+- Dark Pulse  
+- Magnet Bomb  
+
+LATIDOS (Rampardos) (M)  
+Ability: Flower Gift  
+EVs: 12 HP  
+Mild Nature  
+IVs: 16 Def / 7 SpD / 26 Spe  
+- Extreme Speed  
+- Shadow Force  
+- Morning Sun  
+- Cut  
+
+YAAK (Kyogre)  
+Ability: Serene Grace  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Jolly Nature  
+IVs: 20 HP / 22 Atk / 20 Def / 17 SpA / 19 SpD / 16 Spe  
+- Belly Drum  
+- Hypnosis  
+- Rock Slide  
+- Strength  
+
+FALCO (Xatu) (M)  
+Ability: Flash Fire  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 12 HP / 17 Atk / 24 Def / 22 SpA / 18 SpD / 13 Spe  
+- Needle Arm  
+- Fire Fang  
+- Leaf Blade  
+- Rock Smash  
+
+xO (Skarmory) (M) @ Rock Incense  
+Ability: Simple  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Modest Nature  
+IVs: 29 HP / 14 Atk / 18 Def / 10 SpA / 11 SpD / 7 Spe  
+- Iron Defense  
+- Focus Punch  
+- Force Palm  
+- Rock Blast  
+
+
+=== [gen8] Randomizer Races/Manuel 7 ===
+
+Abate (Wormadam) (F) @ Leftovers  
+Ability: Arena Trap  
+Level: 55  
+EVs: 46 HP / 85 Atk / 45 Def / 69 SpA / 53 SpD / 56 Spe  
+Lax Nature  
+IVs: 19 HP / 24 Atk / 24 Def / 28 SpA / 17 SpD / 16 Spe  
+- Knock Off  
+- Nuzzle  
+- Strength Sap  
+- Sticky Web  
+
+Hand pon (Donphan) (F) @ Fightinium Z  
+Ability: Fur Coat  
+Level: 54  
+EVs: 38 HP / 77 Atk / 41 Def / 40 SpA / 36 SpD / 36 Spe  
+Relaxed Nature  
+IVs: 21 HP / 27 Atk / 28 Def / 8 SpA / 12 SpD / 11 Spe  
+- Power Whip  
+- Flying Press  
+- Liquidation  
+- Cosmic Power  
+
+Critical Art (Lunatone) @ Waterium Z  
+Ability: Water Bubble  
+Level: 56  
+EVs: 61 HP / 52 Atk / 36 Def / 45 SpA / 12 SpD / 23 Spe  
+Naughty Nature  
+IVs: 7 HP / 4 Atk / 28 Def / 20 SpA / 6 SpD / 10 Spe  
+- Steam Eruption  
+- Judgment  
+- Ice Beam  
+- Grass Pledge  
+
+Brawl (Starmie) @ Mystic Water  
+Ability: Flare Boost  
+Level: 54  
+EVs: 4 Atk / 3 Def / 17 SpA / 3 SpD / 2 Spe  
+Quiet Nature  
+IVs: 29 HP / 29 Atk / 24 Def / 5 SpA / 20 SpD / 2 Spe  
+- Steam Eruption  
+- Hyperspace Hole  
+- Moongeist Beam  
+- Protect  
+
+Zorg-German (Salamence) (F) @ Dragonium Z  
+Ability: Serene Grace  
+Level: 56  
+EVs: 29 HP / 46 Atk / 27 Def / 40 SpA / 17 SpD / 44 Spe  
+Hasty Nature  
+IVs: 26 HP / 12 Atk / 2 Def / 15 SpA / 2 SpD / 29 Spe  
+- Dual Chop  
+- Flare Blitz  
+- Steam Eruption  
+- Dragon Dance  
+
+Shiner (Muk-Alola) (F) @ Firium Z  
+Ability: Psychic Surge  
+Level: 54  
+Shiny: Yes  
+EVs: 41 HP / 100 Atk / 56 Def / 77 SpA / 52 SpD / 58 Spe  
+Hasty Nature  
+IVs: 26 HP / 22 Atk / 6 Def / 16 SpA / 14 Spe  
+- Shadow Bone  
+- Fire Lash  
+- Leech Life  
+- Spikes  
+
+
+=== [gen7ubers] Randomizer Races/James 7 ===
+
+*ultraspark* (Xurkitree) @ Normalium Z  
+Ability: Soul-Heart  
+Level: 53  
+EVs: 21 HP / 54 Atk / 39 Def / 69 SpA / 23 SpD / 34 Spe  
+Bashful Nature  
+IVs: 6 HP / 13 Atk / 19 Def / 7 SpA / 2 SpD / 12 Spe  
+- Hold Hands  
+- Aeroblast  
+- Parabolic Charge  
+- Octazooka  
+
+Béro (Rotom-Wash) @ amuletcoin  
+Ability: Innards Out  
+Level: 53  
+EVs: 27 HP / 110 Atk / 46 Def / 59 SpA / 27 SpD / 40 Spe  
+Bold Nature  
+IVs: 27 HP / 15 Atk / 11 Def / 30 SpD / 11 Spe  
+- Steam Eruption  
+- Protect  
+- Draining Kiss  
+- Quiver Dance  
+
+2paint (Wigglytuff) (F) @ smokeball  
+Ability: Solar Power  
+Level: 52  
+EVs: 28 HP / 51 Atk / 24 Def / 36 SpA / 23 SpD / 30 Spe  
+Serious Nature  
+IVs: 11 HP / 23 Atk / 24 Def / 29 SpA / 5 SpD / 25 Spe  
+- Water Pulse  
+- Will-O-Wisp  
+- Strength Sap  
+- Transform  
+
+mr.de guzman (Leafeon) (M)  
+Ability: Triage  
+Level: 52  
+EVs: 8 HP / 48 Atk / 19 Def / 53 SpA / 31 SpD / 30 Spe  
+Adamant Nature  
+IVs: 30 HP / 1 Atk / 17 Def / 22 SpA / 14 SpD / 19 Spe  
+- Heal Order  
+- Work Up  
+- Horn Leech  
+- Fire Lash  
+
+Overdrive (Solrock)  
+Ability: Gale Wings  
+Level: 53  
+EVs: 29 HP / 65 Atk / 20 Def / 78 SpA / 32 SpD / 39 Spe  
+Bashful Nature  
+IVs: 27 HP / 20 Atk / 13 Def / 12 SpA / 19 SpD / 13 Spe  
+- Accelerock  
+- V-create  
+- Spectral Thief  
+- Rock Tomb  
+
+vlad slush (Glaceon) (M)  
+Ability: Hyper Cutter  
+Level: 47  
+EVs: 10 HP / 22 Atk / 21 Def / 29 SpA / 14 SpD / 13 Spe  
+Quirky Nature  
+IVs: 8 HP / 5 Atk / 11 Def / 15 SpA / 0 SpD / 2 Spe  
+- Powder  
+- Parting Shot  
+- Foul Play  
+- Glare  
+
+
+=== [gen4ubers] Randomizer Races/manuel 6 ===
+
+SwirlyDood (Spiritomb) (F) @ Bright Powder  
+Ability: Unaware  
+Level: 51  
+EVs: 62 HP / 149 Atk / 53 Def / 133 SpA / 53 SpD / 57 Spe  
+Adamant Nature  
+IVs: 15 HP / 7 Def / 20 SpA / 19 SpD / 13 Spe  
+- Earthquake  
+- Flamethrower  
+- Shadow Sneak  
+- Wish  
+
+Grak (Regigigas) @ Choice Band  
+Ability: Hyper Cutter  
+Level: 51  
+EVs: 44 HP / 184 Atk / 73 Def / 88 SpA / 55 SpD / 66 Spe  
+Lonely Nature  
+IVs: 25 HP / 30 Def / 3 SpA / 9 SpD / 7 Spe  
+- Extreme Speed  
+- Crabhammer  
+- Drill Peck  
+- Bonemerang  
+
+Sippin, (Haunter) (F) @ Bright Powder  
+Ability: Pure Power  
+Level: 52  
+EVs: 62 HP / 86 Atk / 43 Def / 127 SpA / 35 SpD / 83 Spe  
+Relaxed Nature  
+IVs: 26 HP / 30 Def / 21 SpA / 9 SpD / 11 Spe  
+- Ice Beam  
+- Sacred Fire  
+- U-turn  
+- Heal Bell  
+
+B U P (Breloom) (M) @ Big Root  
+Ability: Filter  
+Level: 53  
+EVs: 69 HP / 43 Atk / 52 Def / 47 SpA / 32 SpD / 39 Spe  
+Careful Nature  
+IVs: 21 HP / 28 Def / 11 SpA / 19 SpD / 18 Spe  
+- Drain Punch  
+- Leaf Blade  
+- Extreme Speed  
+- Shadow Claw  
+
+Spenset (Lucario) (M) @ Fist Plate  
+Ability: Unburden  
+Level: 56  
+EVs: 50 HP / 154 Atk / 62 Def / 92 SpA / 25 SpD / 56 Spe  
+Rash Nature  
+IVs: 21 HP / 12 Def / 1 SpA / 16 SpD / 11 Spe  
+- Sky Uppercut  
+- Rock Slide  
+- Spikes  
+- Dark Void  
+
+Blender (Metagross) @ Wide Lens  
+Ability: Marvel Scale  
+Level: 51  
+EVs: 17 HP / 69 Atk / 54 Def / 112 SpA / 19 SpD / 80 Spe  
+Quirky Nature  
+IVs: 1 HP / 22 Def / 6 SpA / 29 SpD / 23 Spe  
+- Zen Headbutt  
+- Megahorn  
+- Night Slash  
+- Ice Shard  
+
+
+=== [gen4ubers] Randomizer Races/James 6 ===
+
+Meth lord∆ (Dusknoir) (F) @ Dusk Ball  
+Ability: Arena Trap  
+Level: 51  
+EVs: 24 HP / 103 Atk / 102 Def / 18 SpA / 3 SpD / 39 Spe  
+Impish Nature  
+IVs: 20 HP / 28 Def / 24 SpA / 15 SpD / 4 Spe  
+- Yawn  
+- Rock Slide  
+- Nightmare  
+- Bulk Up  
+
+lil wung (Pelipper) (M) @ Poke Ball  
+Ability: Compound Eyes  
+Level: 46  
+EVs: 85 HP / 94 Atk / 68 Def / 92 SpA / 58 SpD / 100 Spe  
+Quiet Nature  
+IVs: 12 HP / 6 Atk / 3 Def / 30 SpA / 3 SpD / 1 Spe  
+- Focus Blast  
+- Thunder  
+- Sleep Powder  
+- Fire Blast  
+
+deng ping~ (Umbreon) (M) @ Toxic Orb  
+Ability: Poison Heal  
+Level: 47  
+EVs: 100 HP / 40 Atk / 71 Def / 100 SpA / 100 SpD / 34 Spe  
+Hardy Nature  
+IVs: 16 HP / 20 Atk / 11 Def / 8 SpA / 26 SpD / 27 Spe  
+- Heat Wave  
+- Psychic  
+- Calm Mind  
+- Encore  
+
+mf dood (Bastiodon) (M) @ Macho Brace  
+Ability: Shadow Tag  
+Level: 43  
+EVs: 63 HP / 122 Atk / 64 Def / 93 SpA / 77 SpD / 91 Spe  
+Gentle Nature  
+IVs: 30 HP / 0 Atk / 1 Def / 22 SpA / 6 SpD / 7 Spe  
+- Sludge Bomb  
+- Power Gem  
+- Recover  
+- Heart Swap  
+
+Cappuccino (Bonsly) (F) @ Safari Ball  
+Ability: Levitate  
+Level: 49  
+EVs: 252 HP / 53 Atk / 45 Def / 68 SpA / 37 SpD / 52 Spe  
+Impish Nature  
+IVs: 22 HP / 0 Atk / 2 Def / 4 SpA / 10 SpD / 20 Spe  
+- Reflect  
+- Light Screen  
+- Pain Split  
+- Metal Burst  
+
+Punch TVs (Crawdaunt) (F) @ Choice Band  
+Ability: Steadfast  
+Level: 45  
+EVs: 53 HP / 65 Atk / 58 Def / 64 SpA / 47 SpD / 79 Spe  
+Gentle Nature  
+IVs: 30 HP / 16 Def / 12 SpA / 16 SpD / 24 Spe  
+- Meteor Mash  
+- Drill Peck  
+- Hammer Arm  
+- Aqua Jet  
+
+
+=== [gen6ubers] Randomizer Races/Manuel 5 ===
+
+Survivor (Dusclops) (M) @ Eviolite  
+Ability: Trace  
+Level: 46  
+EVs: 64 HP / 32 Atk / 52 Def / 8 SpA / 20 SpD / 1 Spe  
+Gentle Nature  
+IVs: 7 HP / 0 Def / 18 SpA / 9 SpD / 11 Spe  
+- Punishment  
+- Parting Shot  
+- Cosmic Power  
+- Detect  
+
+Crobankus (Crobat) (F) @ Expert Belt  
+Ability: Delta Stream  
+Level: 40  
+EVs: 4 HP / 1 Atk / 4 Def / 8 SpA / 4 SpD / 16 Spe  
+Adamant Nature  
+IVs: 27 HP / 22 Def / 3 SpA / 17 SpD / 14 Spe  
+- Dragon Claw  
+- King's Shield  
+- Shell Smash  
+- Baton Pass  
+
+Hoopla (Dragalge) (M) @ Splash Plate  
+Ability: Friend Guard  
+Level: 49  
+EVs: 44 HP / 36 Atk / 1 Def / 8 SpA / 4 SpD / 1 Spe  
+Lonely Nature  
+IVs: 12 Def / 28 Spe  
+- Water Spout  
+- Sludge Wave  
+- Lava Plume  
+- Knock Off  
+
+Homoxorus (Haxorus) @ Quick Claw  
+Ability: Cheek Pouch  
+Level: 52  
+EVs: 12 HP / 236 Atk / 1 Def / 12 SpA / 1 SpD / 72 Spe  
+Careful Nature  
+IVs: 19 HP / 1 Atk / 20 SpA / 29 SpD  
+- Crunch  
+- V-create  
+- Bolt Strike  
+- Waterfall  
+
+Farmothorn (Ferrothorn) @ Rocky Helmet  
+Ability: Rough Skin  
+Level: 41  
+EVs: 1 HP / 1 Atk / 4 Def / 4 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 6 HP / 23 Atk / 20 Def / 16 SpA / 29 SpD / 9 Spe  
+- Iron Tail  
+- Poison Fang  
+- U-turn  
+- Morning Sun  
+
+Proboultima (Probopass) @ Wise Glasses  
+Ability: Sand Stream  
+Level: 42  
+EVs: 1 HP / 20 Atk / 1 Def / 252 SpA / 1 SpD / 1 Spe  
+IVs: 0 Atk / 12 Def / 29 SpA / 11 SpD / 8 Spe  
+- Boomburst  
+- Seed Flare  
+- Will-O-Wisp  
+- Ally Switch  
+
+
+=== [gen6ubers] Randomizer Races/James 5 ===
+
+rule 30 (Jynx) @ Lucky Punch  
+Ability: Flame Body  
+Level: 45  
+EVs: 1 HP / 1 Atk / 1 Def / 32 SpA / 32 SpD / 8 Spe  
+IVs: 15 HP / 0 Atk / 22 Spe  
+- Geomancy  
+- Fire Blast  
+- Aeroblast  
+- Extrasensory  
+
+letsgojustin (Greninja) (M) @ Rocky Helmet  
+Ability: Heatproof  
+Level: 44  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 24 HP / 26 Atk / 16 Def / 4 SpA / 8 SpD / 16 Spe  
+- Fake Out  
+- Water Spout  
+- Toxic Spikes  
+- Taunt  
+
+dual bladed! (Serperior) (M) @ Lax Incense  
+Ability: Parental Bond  
+Level: 46  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 8 Def / 27 SpA / 16 SpD  
+- Leaf Blade  
+- Sacred Sword  
+- Seismic Toss  
+- Rock Wrecker  
+
+yoshi YOSHI (Clefable) (F) @ Expert Belt  
+Ability: Competitive  
+Level: 47  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 8 SpD / 1 Spe  
+IVs: 26 HP / 18 Atk / 20 Def / 17 SpA / 19 Spe  
+- Moonblast  
+- Tail Glow  
+- Topsy-Turvy  
+- Origin Pulse  
+
+Morshupastah (Tornadus-Therian) @ King's Rock  
+Ability: Regenerator  
+Level: 44  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Adamant Nature  
+IVs: 10 HP / 21 Atk / 25 Def / 5 SpA / 5 SpD / 20 Spe  
+- Bolt Strike  
+- Trick  
+- Haze  
+- Knock Off  
+
+yummie egh (Aggron) (F) @ Power Band  
+Ability: Effect Spore  
+Level: 45  
+EVs: 1 HP / 36 Atk / 1 Def / 1 SpA / 20 SpD / 1 Spe  
+Modest Nature  
+IVs: 20 HP / 30 Def / 29 SpA / 16 Spe  
+- V-create  
+- Bulldoze  
+- Defog  
+- Wood Hammer  
+
+
+=== [gen5ubers] Randomizer Races/spencer 4 ===
+
+Draco (Garchomp) (M) @ King's Rock  
+Ability: Magic Guard  
+Level: 49  
+EVs: 1 HP / 96 Atk / 1 Def / 12 SpA / 1 SpD / 1 Spe  
+Bold Nature  
+IVs: 23 HP / 24 Def / 18 SpD  
+- Heart Stamp  
+- Power Whip  
+- Blizzard  
+- Luster Purge  
+
+Jen (Scolipede) (F) @ Poke Ball  
+Ability: Rock Head  
+Level: 44  
+EVs: 1 HP / 20 Atk / 1 Def / 20 SpA / 1 SpD / 1 Spe  
+Bold Nature  
+IVs: 25 HP / 28 Def / 8 SpD / 23 Spe  
+- Fusion Bolt  
+- Draco Meteor  
+- Sludge Bomb  
+- U-turn  
+
+Adams (Samurott) (F) @ Razor Claw  
+Ability: Leaf Guard  
+Level: 46  
+EVs: 1 HP / 1 Atk / 16 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 13 HP / 23 SpA / 25 SpD / 26 Spe  
+- Cotton Guard  
+- Aqua Ring  
+- Draco Meteor  
+- Bolt Strike  
+
+Lil PP (Amoonguss) @ Leftovers  
+Ability: Simple  
+Level: 45  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 12 Spe  
+Jolly Nature  
+IVs: 20 HP / 8 Def / 25 SpA / 4 SpD  
+- Cotton Guard  
+- Icicle Crash  
+- Fiery Dance  
+- Coil  
+
+Ninetales @ Charcoal  
+Ability: Battle Armor  
+Level: 42  
+EVs: 1 HP / 24 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Mild Nature  
+IVs: 9 HP / 21 Def / 16 SpA / 16 SpD / 23 Spe  
+- Fiery Dance  
+- Sludge Bomb  
+- Bullet Seed  
+- Shock Wave  
+
+mukbang (Grimer)  
+Ability: Magma Armor  
+Level: 20  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 29 HP / 29 Def / 24 SpA / 9 SpD / 9 Spe  
+- Fly  
+- Surf  
+- Cut  
+- Strength  
+
+
+=== [gen5ubers] Randomizer Races/manuel 4 ===
+
+santafight (Meloetta) @ Leftovers  
+Ability: Magic Guard  
+Level: 60  
+EVs: 52 HP / 76 Atk / 20 Def / 196 SpA / 60 SpD / 52 Spe  
+Jolly Nature  
+IVs: 22 HP / 0 Atk / 19 SpA / 12 Spe  
+- Spacial Rend  
+- Heal Bell  
+- Psystrike  
+- Sleep Talk  
+
+Barbacon (Whiscash) (F) @ Leftovers  
+Ability: Intimidate  
+Level: 60  
+EVs: 144 HP / 40 Def / 80 SpD / 8 Spe  
+Hardy Nature  
+IVs: 29 HP / 11 Def / 19 SpA / 0 SpD / 8 Spe  
+- Earthquake  
+- Meteor Mash  
+- Waterfall  
+- Stealth Rock  
+
+AND EGGS (Darmanitan) (F) @ Choice Scarf  
+Ability: Clear Body  
+Level: 60  
+EVs: 32 HP / 184 Atk / 12 Def / 16 SpA / 12 SpD / 88 Spe  
+Mild Nature  
+IVs: 14 HP / 29 Def / 15 SpA / 29 SpD / 20 Spe  
+- Megahorn  
+- Outrage  
+- Close Combat  
+- Drill Run  
+
+Steve (Dragonite) (F) @ Sharp Beak  
+Ability: Drizzle  
+Level: 59  
+EVs: 44 HP / 76 Atk / 16 Def / 76 SpA / 8 SpD / 52 Spe  
+Modest Nature  
+IVs: 30 HP / 0 Atk / 23 Def / 2 SpA / 0 SpD / 12 Spe  
+- Hurricane  
+- Searing Shot  
+- Surf  
+- Gravity  
+
+First! (Archeops) @ Choice Band  
+Ability: Soundproof  
+Level: 60  
+EVs: 28 HP / 184 Atk / 4 Def / 16 SpA / 16 SpD / 96 Spe  
+IVs: 23 HP / 16 Def / 17 SpA / 23 Spe  
+- Brave Bird  
+- Earthquake  
+- Shadow Claw  
+- Growth  
+
+Son? (Banette) (M) @ Focus Sash  
+Ability: Normalize  
+Level: 60  
+EVs: 28 HP / 12 Atk / 12 Def / 8 SpA / 236 Spe  
+Naive Nature  
+IVs: 22 HP / 24 Def / 29 SpA / 27 SpD / 6 Spe  
+- Sacred Sword  
+- Shift Gear  
+- Toxic  
+- Skill Swap  
+
+
+=== [gen5ubers] Randomizer Races/James 4 ===
+
+normal can (Infernape) (M)  
+Ability: Drought  
+Level: 58  
+EVs: 32 HP / 40 Atk / 1 Def / 40 SpA / 20 SpD / 40 Spe  
+Quirky Nature  
+IVs: 18 HP  
+- Fiery Dance  
+- Seed Bomb  
+- Close Combat  
+- Earthquake  
+
+chief clam (Clamperl) (F) @ Deep Sea Tooth  
+Ability: Sturdy  
+Level: 59  
+EVs: 1 HP / 1 Atk / 1 Def / 100 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 0 Atk / 20 Def / 5 SpD / 6 Spe  
+- Frenzy Plant  
+- Tri Attack  
+- Surf  
+- Flamethrower  
+
+he jumps (Weavile) (M) @ Choice Band  
+Ability: Serene Grace  
+Level: 59  
+EVs: 1 HP / 92 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Hasty Nature  
+IVs: 23 HP / 9 Def / 16 SpA / 17 SpD / 14 Spe  
+- Jump Kick  
+- Iron Head  
+- Icicle Crash  
+- Shell Smash  
+
+A long eel (Rayquaza)  
+Ability: Unburden  
+Level: 55  
+EVs: 4 HP / 24 Atk / 16 Def / 1 SpA / 8 SpD / 1 Spe  
+Calm Nature  
+IVs: 0 Atk / 21 SpA / 23 Spe  
+- Focus Blast  
+- Draco Meteor  
+- Surf  
+- Rest  
+
+William % (Reshiram)  
+Ability: Immunity  
+Level: 56  
+EVs: 72 HP / 1 Atk / 48 Def / 28 SpA / 1 SpD / 1 Spe  
+Quiet Nature  
+IVs: 30 Atk / 23 Spe  
+- Wish  
+- Lunar Dance  
+- U-turn  
+- Fiery Dance  
+
+graduated (Regirock)  
+Ability: Water Absorb  
+Level: 55  
+EVs: 104 HP / 16 Atk / 80 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 24 SpA / 20 SpD / 24 Spe  
+- Trick Room  
+- Rapid Spin  
+- Follow Me  
+- Whirlwind  
+
+
+=== [gen5ubers] Randomizer Races/manuel 3 ===
+
+Ouch (Druddigon) (M) @ Expert Belt  
+Ability: No Guard  
+Level: 54  
+EVs: 144 Atk / 48 Def / 8 SpD  
+Bashful Nature  
+IVs: 28 HP / 13 SpA / 26 Spe  
+- Hurricane  
+- Sacred Fire  
+- Crabhammer  
+- Gunk Shot  
+
+Check (Munchlax) (M) @ Eviolite  
+Ability: Battle Armor  
+Level: 48  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Jolly Nature  
+IVs: 13 HP / 24 Def / 24 SpA / 15 SpD / 18 Spe  
+- Hammer Arm  
+- Wild Charge  
+- Vacuum Wave  
+- Shift Gear  
+
+0Stache (Cryogonal)  
+Ability: Magma Armor  
+Level: 52  
+EVs: 32 Atk  
+Bashful Nature  
+IVs: 13 HP / 5 Def / 29 SpA / 29 SpD / 3 Spe  
+- Self-Destruct  
+- Ice Burn  
+- Surf  
+- Overheat  
+
+Lad (Lombre) (F) @ Insect Plate  
+Ability: Bad Dreams  
+Level: 48  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 27 HP / 19 Def / 9 SpA  
+- Spore  
+- Ice Burn  
+- Judgment  
+- Crabhammer  
+
+Van (Cloyster) (F) @ Leftovers  
+Ability: Early Bird  
+Level: 50  
+EVs: 36 HP / 80 Atk / 12 SpA  
+Impish Nature  
+IVs: 17 SpD / 24 Spe  
+- Head Smash  
+- Bounce  
+- Surf  
+- Volt Tackle  
+
+Movin (Steelix) (F) @ Macho Brace  
+Ability: Huge Power  
+Level: 51  
+EVs: 76 HP / 116 Atk / 44 Def / 4 SpA / 48 SpD  
+Gentle Nature  
+IVs: 26 Spe  
+- Steamroller  
+- Bulldoze  
+- Hyper Fang  
+- Meteor Mash  
+
+
+=== [gen5ubers] Randomizer Races/James 3 ===
+
+Uber east (Swampert) (M) @ Leftovers  
+Ability: Effect Spore  
+Level: 52  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Naughty Nature  
+IVs: 28 HP / 14 Def / 12 SpA / 21 SpD / 18 Spe  
+- Thunder Wave  
+- Spacial Rend  
+- Crabhammer  
+- Sacred Sword  
+
+LED COCAIN (Maractus) (M) @ Soft Sand  
+Ability: Quick Feet  
+Level: 52  
+EVs: 20 Atk / 116 SpA  
+IVs: 10 HP / 0 Atk / 17 SpD / 16 Spe  
+- Lava Plume  
+- Night Daze  
+- Earth Power  
+- Sleep Powder  
+
+ur shoe (Gabite) (M) @ Eviolite  
+Ability: Pure Power  
+Level: 54  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+IVs: 29 HP / 15 Def / 13 SpA / 13 SpD / 15 Spe  
+- Icicle Crash  
+- Sacred Fire  
+- Crabhammer  
+- Dark Void  
+
+notpuffe (Alakazam) (M) @ Expert Belt  
+Ability: Skill Link  
+Level: 51  
+EVs: 28 HP / 20 SpA / 16 Spe  
+IVs: 23 Atk / 13 SpD  
+- Psycho Boost  
+- Discharge  
+- Icicle Spear  
+- Bug Buzz  
+
+i sleep (Mismagius) (M) @ Shell Bell  
+Ability: Immunity  
+Level: 51  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Adamant Nature  
+IVs: 11 HP / 6 Atk / 22 Def / 19 SpD / 27 Spe  
+- Heat Wave  
+- Ominous Wind  
+- Surf  
+- Leaf Tornado  
+
+Yam4Chris (Tangrowth) (F) @ Macho Brace  
+Ability: Swarm  
+Level: 50  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Hardy Nature  
+IVs: 16 HP / 10 Def / 11 SpA / 4 SpD / 13 Spe  
+- Razor Leaf  
+- Shift Gear  
+- Baton Pass  
+- Cotton Guard  
+
+
+=== [gen4ubers] Randomizer Races/manuel 2 ===
+
+Warm (Froslass) @ Wise Glasses  
+Ability: Ice Body  
+Level: 42  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lonely Nature  
+IVs: 11 HP / 17 Atk / 11 Def / 28 SpA / 21 SpD / 10 Spe  
+- Giga Impact  
+- Dragon Pulse  
+- Taunt  
+- Force Palm  
+
+Close Bob (Yanmega) (M) @ Sea Incense  
+Ability: Clear Body  
+Level: 40  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Mild Nature  
+IVs: 17 HP / 29 Atk / 11 Def / 22 SpA / 25 SpD / 17 Spe  
+- Attack Order  
+- Surf  
+- Rock Climb  
+- Waterfall  
+
+Chinsnou (Lanturn) (M) @ Expert Belt  
+Ability: Soundproof  
+Level: 48  
+EVs: 44 HP / 12 SpA / 52 Spe  
+Relaxed Nature  
+IVs: 16 Def / 27 SpD  
+- Thunder Punch  
+- Ice Beam  
+- Draco Meteor  
+- Sleep Powder  
+
+haRd Clay (Claydol)  
+Ability: Ice Body  
+Level: 45  
+EVs: 20 Atk  
+Relaxed Nature  
+IVs: 8 HP / 11 Def / 16 SpA / 19 SpD / 14 Spe  
+- Explosion  
+- Horn Drill  
+- Mega Kick  
+- Hail  
+
+Fishpaste (Gyarados) (F) @ Choice Band  
+Ability: Reckless  
+Level: 44  
+EVs: 196 Atk / 16 SpA  
+Careful Nature  
+IVs: 22 HP / 18 Def / 12 SpD / 7 Spe  
+- Jump Kick  
+- Sacred Fire  
+- Dragon Pulse  
+- Iron Tail  
+
+🅱IG (Machamp) (F) @ Choice Specs  
+Ability: Iron Fist  
+Level: 42  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Rash Nature  
+IVs: 9 HP / 19 Atk / 11 Def / 8 SpD / 1 Spe  
+- Strength  
+- Zap Cannon  
+- Blizzard  
+- Giga Drain  
+
+
+=== [gen4ubers] Randomizer Races/James 2 ===
+
+FRACKLES (Lanturn) (F) @ Dragon Fang  
+Ability: Soundproof  
+Level: 44  
+EVs: 16 HP / 60 Atk / 40 SpA  
+Quirky Nature  
+IVs: 0 Atk / 14 Def / 27 SpD / 24 Spe  
+- Draco Meteor  
+- Surf  
+- Sleep Powder  
+- Ice Beam  
+
+LEAWONDERS (Cacnea) (F) @ Up-Grade  
+Ability: Download  
+Level: 41  
+EVs: 16 Atk / 16 SpD / 16 Spe  
+IVs: 25 HP / 23 SpA  
+- Sky Uppercut  
+- Frenzy Plant  
+- Draco Meteor  
+- Superpower  
+
+; (Ambipom) (F) @ Shell Bell  
+Ability: Plus  
+Level: 42  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Sassy Nature  
+IVs: 19 HP / 25 Atk / 22 Def / 19 SpA / 25 SpD / 23 Spe  
+- Low Kick  
+- Spikes  
+- Soft-Boiled  
+- Bonemerang  
+
+CROAKWORK (Toxicroak) (F) @ Stone Plate  
+Ability: Air Lock  
+Level: 44  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Lax Nature  
+IVs: 16 Def / 23 SpA / 14 Spe  
+- Poison Jab  
+- Earthquake  
+- Drain Punch  
+- Judgment  
+
+PO (Magnezone) @ Safari Ball  
+Ability: Magma Armor  
+Level: 43  
+EVs: 8 Atk  
+Hasty Nature  
+IVs: 14 HP / 22 Atk / 6 Def / 24 SpA / 7 SpD / 28 Spe  
+- Ice Beam  
+- Power Whip  
+- Leech Seed  
+- Waterfall  
+
+GOOD SONG :D (Giratina)  
+Ability: Blaze  
+Level: 48  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Calm Nature  
+IVs: 2 HP / 27 Atk / 29 Def / 10 SpD / 29 Spe  
+- Leaf Storm  
+- Thunder Punch  
+- Tri Attack  
+- Dragon Pulse  
+
+
+=== [gen4ubers] Randomizer Races/manuel 1 ===
+
+Bob (Vibrava) (F) @ Muscle Band  
+Ability: Huge Power  
+Level: 48  
+EVs: 60 HP / 16 Atk / 4 Def / 44 SpA / 4 SpD / 44 Spe  
+Naive Nature  
+- Magma Storm  
+- Thunder  
+- Gunk Shot  
+- Drain Punch  
+
+DAD (Banette) (M) @ Miracle Seed  
+Ability: Shield Dust  
+Level: 50  
+EVs: 60 HP / 52 Atk / 20 Def / 76 SpA / 44 SpD / 4 Spe  
+Hardy Nature  
+- Megahorn  
+- Dragon Rush  
+- Grass Knot  
+- Superpower  
+
+Soiled It (Tyranitar) (F) @ Earth Plate  
+Ability: Hyper Cutter  
+Level: 47  
+EVs: 64 Atk / 28 SpA / 28 Spe  
+Quiet Nature  
+IVs: 14 HP / 11 Def / 14 SpD  
+- Flare Blitz  
+- Earthquake  
+- Ice Shard  
+- Surf  
+
+InferTank (Infernape) @ Spell Tag  
+Ability: Filter  
+Level: 39  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Calm Nature  
+IVs: 6 HP / 23 Def / 12 SpA / 18 SpD / 22 Spe  
+- Shadow Force  
+- Meteor Mash  
+- Bullet Punch  
+- Withdraw  
+
+Spacie (Palkia)  
+Ability: Aftermath  
+Level: 44  
+EVs: 24 Atk  
+Hardy Nature  
+IVs: 13 HP / 0 Atk / 10 SpA / 7 SpD / 24 Spe  
+- Water Pulse  
+- Spore  
+- Encore  
+- Endeavor  
+
+LARRY (Shelgon) (F)  
+Ability: Plus  
+Level: 13  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Gentle Nature  
+IVs: 16 HP / 23 Def / 23 SpD / 23 Spe  
+- Cut  
+- Silver Wind  
+- Waterfall  
+- False Swipe  
+
+
+=== [gen4ubers] Randomizer Races/James 1 ===
+
+KFREECOVER (Blaziken) (M)  
+Ability: Swift Swim  
+Level: 43  
+EVs: 8 Atk / 8 Def  
+Bashful Nature  
+IVs: 8 SpA / 6 SpD / 16 Spe  
+- Recover  
+- Revenge  
+- Metal Claw  
+- Toxic  
+
+2ND CHANCE (Slaking) (F) @ Silk Scarf  
+Ability: Hydration  
+Level: 49  
+EVs: 20 Atk / 16 Spe  
+Sassy Nature  
+IVs: 23 HP / 11 Def / 12 SpA / 29 SpD  
+- Rock Climb  
+- Waterfall  
+- Dark Pulse  
+- Magnet Bomb  
+
+LATIDOS (Rampardos) (M)  
+Ability: Flower Gift  
+Level: 40  
+EVs: 12 HP  
+Mild Nature  
+IVs: 16 Def / 7 SpD / 26 Spe  
+- Extreme Speed  
+- Shadow Force  
+- Morning Sun  
+- Cut  
+
+YAAK (Kyogre)  
+Ability: Serene Grace  
+Level: 40  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Jolly Nature  
+IVs: 20 HP / 20 Def / 17 SpA / 19 SpD / 16 Spe  
+- Belly Drum  
+- Hypnosis  
+- Rock Slide  
+- Strength  
+
+FALCO (Xatu) (M)  
+Ability: Flash Fire  
+Level: 38  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Docile Nature  
+IVs: 12 HP / 24 Def / 22 SpA / 18 SpD / 13 Spe  
+- Needle Arm  
+- Fire Fang  
+- Leaf Blade  
+- Rock Smash  
+
+xO (Skarmory) (M) @ Rock Incense  
+Ability: Simple  
+Level: 37  
+EVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe  
+Modest Nature  
+IVs: 29 HP / 18 Def / 10 SpA / 11 SpD / 7 Spe  
+- Iron Defense  
+- Focus Punch  
+- Force Palm  
+- Rock Blast  
+
+
