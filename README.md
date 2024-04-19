@@ -6,7 +6,7 @@ A somewhat poorly-written tool for randomly generating Pokemon teams from sample
 
 `__TEAMS_OUTPUT__.txt`: Pokemon Showdown/Pokepaste data for generated teams.
 
-`config.ini`: 'omit_first_x_tiers' will exclude the top x amount of tiers used when randomly generating teams (see `tiers.txt`). 'original_stats' will use the stats from the teams_list.txt file. The other options in this file do nothing since they have not been coded in.
+`config.ini`: 'omit_first_x_tiers' will exclude the top x amount of tiers used when randomly generating teams (see tiers.txt). 'original_stats' will use the stats from the teams_list.txt file. The other options in this file do nothing since they have not been coded in.
 
 `pokemon_index.txt`: A list of a pokemon's full moveset. Does not need to be in alphabetical order but it helps when adding in new mons. Format is:
 
